@@ -1,19 +1,26 @@
-### Hi there 👋
+### Salut, je suis Jay 👋
 
-<!--
-**JayViannay/JayViannay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+un développeur web passionné et formateur basé à Marseille. Avec une passion pour la création d'applications web et une vaste expérience dans un large éventail de technologies, je suis là pour vous aider à réussir dans le monde passionnant du développement web.
 
-Here are some ideas to get you started:
+#### Expertise Technique 🚀
+J'ai une solide expertise dans les technologies suivantes :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP : J'utilise PHP pour créer des applications web robustes et performantes.
+- JavaScript : J'aime travailler avec JavaScript pour ajouter de l'interactivité et de la dynamique à mes projets.
+- MongoDB et MySQL : Je suis compétent dans la gestion des bases de données, que ce soit en SQL ou NoSQL.
+- Symfony : Symfony est mon framework PHP de prédilection pour développer des applications web de grande envergure.
+- React : J'utilise React pour créer des interfaces utilisateur modernes et réactives.
+- Node.js : J'aime travailler avec Node.js pour des applications côté serveur rapides et évolutives.
 
+#### Passion pour l'Enseignement 📚
+En tant que formateur, j'ai la chance de partager mes connaissances et mon expérience avec d'autres passionné.es de technologie. J'anime des ateliers, des cours et des sessions de livecoding dans diverses écoles.
+
+#### 2 858h de soleil par an 🌊
+
+📍 C'est Marseille bébé
 {{ template "daily-table" .Weathers }}
-{{ formatTime .UpdatedAt }}
+
+Dernière mise à jour : {{ formatTime .UpdatedAt }}
+
+#### Contactez-moi 🤝
+Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).

@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
 {{ template "daily-table" .Weathers }}
 {{ formatTime .UpdatedAt }}

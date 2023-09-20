@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate README
+      - name: Update Weather
         uses: huantt/weather-forecast@v1.0.5
         with:
           city: Marseille

@@ -22,7 +22,7 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>23/09/2023</td><td>24/09/2023</td><td>25/09/2023</td><td>26/09/2023</td><td>27/09/2023</td><td>28/09/2023</td><td>29/09/2023</td>
+        <td>24/09/2023</td><td>25/09/2023</td><td>26/09/2023</td><td>27/09/2023</td><td>28/09/2023</td><td>29/09/2023</td><td>30/09/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -34,11 +34,11 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.9 -  22.3 °C</td><td>15.6 -  21.9 °C</td><td>18 -  22.6 °C</td><td>18.7 -  23.6 °C</td><td>19.7 -  24.4 °C</td><td>20.9 -  24.8 °C</td><td>20.3 -  23.8 °C</td>
+        <td>15.6 -  21.9 °C</td><td>18 -  22.6 °C</td><td>18.7 -  23.6 °C</td><td>19.7 -  24.4 °C</td><td>20.9 -  24.8 °C</td><td>20.3 -  23.8 °C</td><td>20.9 -  24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>45.7 kph</td><td>29.9 kph</td><td>11.2 kph</td><td>14.4 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>10.4 kph</td>
+        <td>29.9 kph</td><td>11.2 kph</td><td>14.4 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2023-09-23T21:28:40Z
+Dernière mise à jour : 2023-09-23T22:28:37Z

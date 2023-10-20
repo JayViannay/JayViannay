@@ -22,23 +22,23 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>20/10/2023</td><td>21/10/2023</td><td>22/10/2023</td>
+        <td>21/10/2023</td><td>22/10/2023</td><td>23/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.3 -  19.5 °C</td><td>14.6 -  18.7 °C</td><td>14.8 -  18.5 °C</td>
+        <td>14.6 -  18.7 °C</td><td>14.8 -  18.5 °C</td><td>16.2 -  20.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>49 kph</td><td>31.3 kph</td><td>17.6 kph</td>
+        <td>31.3 kph</td><td>17.6 kph</td><td>51.1 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2023-10-20T21:28:37Z
+Dernière mise à jour : 2023-10-20T22:29:24Z

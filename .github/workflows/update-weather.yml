@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update Weather
-        uses: huantt/weather-forecast@v1.0.5
+        uses: huantt/weather-forecast@v1.0.6
         with:
           city: Marseille
           days: 7

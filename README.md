@@ -26,19 +26,19 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.4 -  10.6 °C</td><td>5.9 -  9.5 °C</td><td>6.4 -  10.8 °C</td>
+        <td>7.9 -  10.8 °C</td><td>5.7 -  9.3 °C</td><td>6.1 -  11.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>35.6 kph</td><td>28.8 kph</td><td>35.6 kph</td>
+        <td>37.1 kph</td><td>30.2 kph</td><td>26.3 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2023-12-05T00:41:08Z
+Dernière mise à jour : 2023-12-05T01:45:12Z

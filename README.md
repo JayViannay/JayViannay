@@ -22,23 +22,23 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>07/12/2023</td><td>08/12/2023</td><td>09/12/2023</td>
+        <td>08/12/2023</td><td>09/12/2023</td><td>10/12/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly cloudy</td><td width="200px">Heavy rain</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Heavy rain</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>5.9 -  10.6 °C</td><td>8.8 -  10.5 °C</td><td>7.5 -  10.8 °C</td>
+        <td>8.8 -  10.5 °C</td><td>7.5 -  10.8 °C</td><td>8.7 -  13.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>27 kph</td><td>37.4 kph</td><td>18.7 kph</td>
+        <td>37.4 kph</td><td>18.7 kph</td><td>25.6 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2023-12-07T22:29:56Z
+Dernière mise à jour : 2023-12-07T23:28:16Z

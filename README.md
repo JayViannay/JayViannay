@@ -22,7 +22,7 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>15/12/2023</td><td>16/12/2023</td><td>17/12/2023</td>
+        <td>16/12/2023</td><td>17/12/2023</td><td>18/12/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -34,11 +34,11 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.7 -  12.9 °C</td><td>8.3 -  12.1 °C</td><td>9 -  12.8 °C</td>
+        <td>8.3 -  12.1 °C</td><td>9 -  12.8 °C</td><td>8.9 -  13.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>36.7 kph</td><td>13.7 kph</td><td>9.7 kph</td>
+        <td>13.7 kph</td><td>9.7 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2023-12-15T22:28:33Z
+Dernière mise à jour : 2023-12-15T23:28:10Z

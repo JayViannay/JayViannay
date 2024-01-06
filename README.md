@@ -22,23 +22,23 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>06/01/2024</td><td>07/01/2024</td><td>08/01/2024</td>
+        <td>07/01/2024</td><td>08/01/2024</td><td>09/01/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Overcast</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Overcast</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>6.8 -  9 °C</td><td>5.5 -  7.3 °C</td><td>2.9 -  6.1 °C</td>
+        <td>5.5 -  7.3 °C</td><td>2.9 -  6.1 °C</td><td>2.3 -  6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>59.8 kph</td><td>55.4 kph</td><td>33.5 kph</td>
+        <td>55.4 kph</td><td>33.5 kph</td><td>25.9 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2024-01-06T22:29:29Z
+Dernière mise à jour : 2024-01-06T23:28:23Z

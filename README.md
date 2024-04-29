@@ -34,11 +34,11 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.2 -  19.5 °C</td><td>14 -  18.4 °C</td><td>12.3 -  14.9 °C</td>
+        <td>15.2 -  19.2 °C</td><td>14.7 -  18.8 °C</td><td>11.8 -  16 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23.4 kph</td><td>31.3 kph</td><td>21.6 kph</td>
+        <td>23.4 kph</td><td>30.2 kph</td><td>26.3 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2024-04-29T16:31:01Z
+Dernière mise à jour : 2024-04-29T17:28:17Z

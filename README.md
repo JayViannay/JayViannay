@@ -22,7 +22,7 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>08/08/2024</td><td>09/08/2024</td><td>10/08/2024</td>
+        <td>09/08/2024</td><td>10/08/2024</td><td>11/08/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -34,11 +34,11 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 -  31.1 °C</td><td>25.1 -  32 °C</td><td>25.4 -  29.5 °C</td>
+        <td>25.1 -  32 °C</td><td>25.4 -  29.5 °C</td><td>25.7 -  29.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.8 kph</td><td>21.2 kph</td><td>13 kph</td>
+        <td>21.2 kph</td><td>13 kph</td><td>17.3 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2024-08-08T21:28:16Z
+Dernière mise à jour : 2024-08-08T22:30:33Z

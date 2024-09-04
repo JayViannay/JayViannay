@@ -22,23 +22,23 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 <table>
     <tr>
         <th>Date</th>
-        <td>04/09/2024</td><td>05/09/2024</td><td>06/09/2024</td>
+        <td>05/09/2024</td><td>06/09/2024</td><td>07/09/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Sunny</td>
+        <td width="200px">Moderate rain</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.2 -  25.9 °C</td><td>18.3 -  22.6 °C</td><td>19.9 -  25 °C</td>
+        <td>18.3 -  22.6 °C</td><td>19.9 -  25 °C</td><td>22 -  26.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.4 kph</td><td>29.9 kph</td><td>24.5 kph</td>
+        <td>29.9 kph</td><td>24.5 kph</td><td>42.8 kph</td>
     </tr>
 </table>
 
@@ -46,4 +46,4 @@ En tant que formateur, j'ai la chance de partager mes connaissances et mon expé
 #### Contactez-moi 🤝
 Si vous cherchez à collaborer sur des projets web, à discuter de formations ou simplement à échanger des idées, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/jay-viannay-dev-web-instructor/).
 <br>
-Dernière mise à jour : 2024-09-04T21:28:50Z
+Dernière mise à jour : 2024-09-04T22:31:03Z
